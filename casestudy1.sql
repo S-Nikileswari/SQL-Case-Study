@@ -1,4 +1,4 @@
-DROP DATABASE employementmanagement;
+
 CREATE database EmployementManagement;
 use employementmanagement;
 
