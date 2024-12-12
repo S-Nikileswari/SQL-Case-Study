@@ -1,1 +1,1 @@
-# SQL-Case-Study
+This collection of SQL case studies provides practical examples of how SQL can be used to extract, manipulate, and analyze data from various domains. These case studies are designed to help learners and professionals understand the application of SQL in real-world scenarios.
